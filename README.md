@@ -2,7 +2,6 @@
 Este repositório contém a implementação completa de um banco de dados relacional, incluindo scripts de criação, inserção, consulta, atualização e exclusão de dados, seguindo as diretrizes do projeto acadêmico.
 [projeto_sql_completo.pdf](https://github.com/user-attachments/files/23869211/projeto_sql_completo.pdf)
 %PDF-1.4
-%���� ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
 <<
 /F1 2 0 R /F2 3 0 R /F3 4 0 R
